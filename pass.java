@@ -1,6 +1,3 @@
- //https://www.geeksforgeeks.org/generate-passwords-given-character-set/
-//https://www.smartprix.com/byte`s/how-to-remove-bloatware-from-realme-xiaomi-and-samsung-phones/
-
 import java.util.*;
 import java.io.*;
 
