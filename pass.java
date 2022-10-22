@@ -8,7 +8,7 @@ public class pass {
       String appended, str;
       Scanner sn = new Scanner(System.in);
       System.out.println("!!! If there is passwords.txt in same folder of program remove it to avoid appending of new passwords to prevoius passwords.txt file");
-      System.out.print(">>>   Enter character (a-Z , 0-9 , ~-) : ");
+      System.out.print(">>>   Enter characters (a-Z , 0-9 , ~-) : ");
       str = sn.next();
 
       char[] arr = str.toCharArray();
